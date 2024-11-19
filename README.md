@@ -18,16 +18,19 @@ I'm an aspiring developer passionate about web development and primarily focused
 - **Frontend**: HTML, CSS, React
 - **Tools**: Git, Bootstrap, VS Code
 
-## 📈 GitHub Stats
+## 📊Justin Hebenstreit's GitHub Stats
 
-![GitHub Stats](./metrics.svg)
+<div style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
 
-| **Metric**       | **Badge**                                                                                       |
-|-------------------|------------------------------------------------------------------------------------------------|
-| **Followers**     | ![GitHub Followers](https://img.shields.io/github/followers/JHebenstreit48?labelColor=black&color=white&style=for-the-badge) |
-| **Stars**         | ![GitHub Stars](https://img.shields.io/github/stars/JHebenstreit48?labelColor=black&color=yellow&style=for-the-badge)         |
-| **Forks**         | ![GitHub Forks](https://img.shields.io/github/forks/JHebenstreit48?labelColor=black&color=green&style=for-the-badge)          |
-| **Open Issues**   | ![Open Issues](https://img.shields.io/github/issues/JHebenstreit48/yourrepository?labelColor=black&color=red&style=for-the-badge) |
+| **Metric**             | **Badge**                                                                                             |
+|-------------------------|-------------------------------------------------------------------------------------------------------|
+| **Total Stars**         | ![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&labelColor=black&color=yellow) |
+| **Total Forks**         | ![Forks](https://img.shields.io/github/forks/yourusername?style=for-the-badge&labelColor=black&color=green)   |
+| **Followers**           | ![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&labelColor=black&color=blue) |
+| **Open Issues**         | ![Issues](https://img.shields.io/github/issues/yourusername/yourrepository?style=for-the-badge&labelColor=black&color=red) |
+| **Last Commit**         | ![Last Commit](https://img.shields.io/github/last-commit/yourusername/yourrepository?style=for-the-badge&labelColor=black&color=orange) |
+
+</div>
 
 
 
