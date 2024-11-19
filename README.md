@@ -10,7 +10,7 @@ I'm an aspiring developer passionate about web development and primarily focused
 - 🌱 I’m currently learning: Full-Stack web development.
 - 💬 Ask me about: HTML, CSS, React, JavaScript, and TypeScript.
 - 🤔 I’m looking for help with: currently still working on improving my skills and knowledge in the backend and python.
-- 📫 How to reach me: [j.hebenstreit.developer@gmai.com](mailto:j.hebenstreit.developer@gmail.com) | [LinkedIn]()
+- 📫 How to reach me: [j.hebenstreit.developer@gmail.com](mailto:j.hebenstreit.developer@gmail.com) | [LinkedIn]()
 - ⚡ Fun fact: I am an avid gamer and used to be a photographer.
 
 ## 🛠️ Languages and Tools
