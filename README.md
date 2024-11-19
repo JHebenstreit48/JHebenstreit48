@@ -20,17 +20,7 @@ I'm an aspiring developer passionate about web development and primarily focused
 
 ## 📊Justin Hebenstreit's GitHub Stats
 
-<div style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
-
-| **Metric**             | **Badge**                                                                                             |
-|-------------------------|-------------------------------------------------------------------------------------------------------|
-| **Total Stars**         | ![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&labelColor=black&color=yellow) |
-| **Total Forks**         | ![Forks](https://img.shields.io/github/forks/yourusername?style=for-the-badge&labelColor=black&color=green)   |
-| **Followers**           | ![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&labelColor=black&color=blue) |
-| **Open Issues**         | ![Issues](https://img.shields.io/github/issues/yourusername/yourrepository?style=for-the-badge&labelColor=black&color=red) |
-| **Last Commit**         | ![Last Commit](https://img.shields.io/github/last-commit/yourusername/yourrepository?style=for-the-badge&labelColor=black&color=orange) |
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JHebenstreit48&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=ff69b4&text_color=9f9f9f&icon_color=79ff97&border_radius=15&cache_seconds=1800)
 
 
 
