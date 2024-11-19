@@ -20,7 +20,7 @@ I'm an aspiring developer passionate about web development and primarily focused
 
 ## 📈 GitHub Stats
 
-<div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+![GitHub Stats](./metrics.svg)
 
 | **Metric**       | **Badge**                                                                                       |
 |-------------------|------------------------------------------------------------------------------------------------|
