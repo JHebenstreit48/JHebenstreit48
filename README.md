@@ -2,22 +2,21 @@
 
 # A little bit about me
 
-I'm an aspiring developer passionate about web development and currently focused on honing my skills in both frontend and backend technologies. 
+I'm an aspiring developer passionate about web development and primarily focused on frontend development. 
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: Coding Notes React and Asphalt Legends Unite React
-- 🌱 I’m currently learning: Backend development and improving my full-stack skills.
-- 💬 Ask me about: Typescript, React, and Postgresql.
+- 🌱 I’m currently learning: Full-Stack web development.
+- 💬 Ask me about: HTML, CSS, React, JavaScript, and TypeScript.
+- 🤔 I’m looking for help with: currently still working on improving my skills and knowledge in the backend and python.
 - 📫 How to reach me: [j.hebenstreit.developer@gmai.com](mailto:j.hebenstreit.developer@gmail.com) | [LinkedIn]()
-
 - ⚡ Fun fact: I am an avid gamer and used to be a photographer.
 
 ## 🛠️ Languages and Tools
 
-- **Frontend**: HTML, CSS, Typescript, React
-- **Backend**: Sql, noSql, MongoDB, Postgresql, Express
-- **Tools**: Git, Bootstrap, VS Code, Testing, CI/CD
+- **Frontend**: HTML, CSS, React
+- **Tools**: Git, Bootstrap, VS Code
 
 ## 📈 GitHub Stats
 
@@ -26,19 +25,7 @@ I'm an aspiring developer passionate about web development and currently focused
 
 ## 📌 Featured Projects
 
-- [Wish Board App](https://github.com/bryceberczik/wishlist-board) - A web app for creating and managing wish lists.
-- [Finance App](https://github.com/bryceberczik/project-c) - A finance app using only front end javascript to help handle your expenses.
-
-<!--
-**JHebenstreit48/JHebenstreit48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- [Coding Notes Repo](https://github.com/JHebenstreit48/coding-notes-react) - Repo for the notes I created for different aspects of web development.
+- [Coding Notes](https://coding-notes-react-version.netlify.app/html) - The live deployed work in progress site for my coding notes.
+- [Asphalt Legends Unite Repo](https://github.com/JHebenstreit48/asphalt-legends-unite-react) - Repo for a cohesive all in one site for various information about the Asphalt Legends Unite video game. (I plan to eventually add the ability to track your in game progress.)
+- [Asphalt Legends Unite](https://asphalt-legends-unite.netlify.app/) - Live deployed work in progress version of the website.
