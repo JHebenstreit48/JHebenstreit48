@@ -20,7 +20,15 @@ I'm an aspiring developer passionate about web development and primarily focused
 
 ## 📈 GitHub Stats
 
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHebenstreit48&cache_seconds=1800)
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+
+| **Metric**       | **Badge**                                                                                       |
+|-------------------|------------------------------------------------------------------------------------------------|
+| **Followers**     | ![GitHub Followers](https://img.shields.io/github/followers/JHebenstreit48?labelColor=black&color=white&style=for-the-badge) |
+| **Stars**         | ![GitHub Stars](https://img.shields.io/github/stars/JHebenstreit48?labelColor=black&color=yellow&style=for-the-badge)         |
+| **Forks**         | ![GitHub Forks](https://img.shields.io/github/forks/JHebenstreit48?labelColor=black&color=green&style=for-the-badge)          |
+| **Open Issues**   | ![Open Issues](https://img.shields.io/github/issues/JHebenstreit48/yourrepository?labelColor=black&color=red&style=for-the-badge) |
+
 
 
 ## 📌 Featured Projects
