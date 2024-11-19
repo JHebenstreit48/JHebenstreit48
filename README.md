@@ -20,7 +20,7 @@ I'm an aspiring developer passionate about web development and primarily focused
 
 ## 📈 GitHub Stats
 
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHebenstreit48&show_icons=true&theme=radical)
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHebenstreit48&cache_seconds=1800)
 
 
 ## 📌 Featured Projects
