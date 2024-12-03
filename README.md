@@ -39,7 +39,7 @@ These projects are actively under development and are regularly updated and refi
 
 - [Asphalt Legends Unite Repo](https://github.com/JHebenstreit48/asphalt-legends-unite-react) -A repository for a comprehensive, all-in-one website dedicated to the Asphalt Legends Unite video game. Future plans include adding features to track in-game progress.
 
-- [Asphalt Legends Unite](https://asphalt-legends-unite.netlify.app/) - 
+- [Asphalt Legends Unite](https://asphalt-legends-unite-react.onrender.com/) - 
 The live, deployed version of the Asphalt Legends Unite website. Currently a work in progress, this site serves as a central hub for game information.
 
 - [Game Development Notes Repo](https://github.com/JHebenstreit48/game-development-notes) - A repository containing comprehensive notes on game design, development concepts, and related code implementations.
