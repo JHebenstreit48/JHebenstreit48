@@ -6,7 +6,7 @@ I'm an aspiring developer with a passion for web development, primarily focused 
 
 ## 🚀 About Me
 
-- 🔭 Currently working on:My Web Development Notes project and the Asphalt Legends Unite website.
+- 🔭 Currently working on:My Web Development Notes project and the Asphalt Legends Unite Tracker website.
 
 - 🌱 Currently learning: Full-stack web development to broaden my expertise across all areas of the web development process.
 
@@ -22,7 +22,7 @@ I'm an aspiring developer with a passion for web development, primarily focused 
 - ⚡ Fun fact: I'm an avid gamer and a former photographer with an eye for creativity and detail.
 ## 🛠️ Languages and Tools
 
-- **Frontend**: HTML, CSS, React
+- **Frontend**: HTML, CSS, React, JavaScript, TypeScript
 - **Tools**: Git, Bootstrap, VS Code
 
 ## 📊Justin Hebenstreit's GitHub Stats
