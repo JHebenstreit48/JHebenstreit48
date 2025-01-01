@@ -6,9 +6,9 @@ I'm an aspiring developer with a passion for web development, primarily focused 
 
 ## 🚀 About Me
 
-- 🔭 Currently working on:My Web Development Notes project and the Asphalt Legends Unite Tracker website.
+- 🔭 Currently working on: My Web Development Notes project and the Asphalt Legends Unite Tracker website.
 
-- 🌱 Currently learning: Full-stack web development to broaden my expertise across all areas of the web development process.
+- 🌱 Currently learning: Full-stack web development to broaden my expertise across all areas of the web development process. Also, refreshing my memory on Cisco CCNA and other networking topics.
 
 - 💬 Ask me about: HTML, CSS, React, JavaScript, and TypeScript—I love discussing and sharing insights on these topics!
 
@@ -26,7 +26,7 @@ I'm an aspiring developer with a passion for web development, primarily focused 
 
 - **Frontend**: HTML, CSS, React, JavaScript, TypeScript
 - **Tools**: Git, Bootstrap, VS Code
-- **Networking**: CCNA
+- **Networking**: CCNA and general networking concepts.
 
 ## 📊Justin Hebenstreit's GitHub Stats
 
