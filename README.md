@@ -51,3 +51,4 @@ The live, deployed version of the Asphalt Legends Unite website. Currently a wor
 
 - [Net Notes Repo](https://github.com/JHebenstreit48/NetNotes) - A repository containing notes on Cisco CCNA, CCNP, and other networking notes.
 
+- [Net Notes](https://netnotes.netlify.app/) - The live, deployed version of my comprehensive notes on IT Networking.
