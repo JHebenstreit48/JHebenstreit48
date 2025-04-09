@@ -68,7 +68,7 @@ A fan-made companion for *Gameloft's Asphalt Legends Unite* — helping players 
 
 ### 🎮 **Pixel Prose**
 - 📁 [Repository](https://github.com/JHebenstreit48/game-development-notes)  
-- 🌐 [Live Site](https://game-development-notes.netlify.app/)  
+- 🌐 [Live Site](https://pixelprose.netlify.app/)  
 Comprehensive notes on game design and development — ideal for learners and indie devs.
 
 ### 🌐 **Net Notes**
