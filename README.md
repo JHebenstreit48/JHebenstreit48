@@ -41,10 +41,9 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 
 ## 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
 
 ### 🧠 Learning
 
@@ -62,12 +61,6 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
-## 🛠️ Tools
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
 ## 📱 Mobile Development
 
 ### 🧠 Learning
@@ -77,19 +70,9 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-
-## 🛠️ Tools
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-
 ---
 
 ## 🎮 Game Development
-
-### 🔁 Refreshing
-
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
 ### 🧠 Learning
 
@@ -112,9 +95,7 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 
 ## 🛠️ Tools
 
-![Unity Hub](https://img.shields.io/badge/Unity_Hub-000000?style=flat&logo=unity&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=jetbrains&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/Autodesk_Maya-1B1B1B?style=flat&logo=autodesk&logoColor=lightblue)
 ![ZBrush](https://img.shields.io/badge/ZBrush-000000?style=flat&logo=zbrush&logoColor=white)
 ![Substance Designer](https://img.shields.io/badge/Substance_Designer-FF7C00?style=flat&logo=substance-designer&logoColor=white)
@@ -139,7 +120,6 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 ### 🧠 Learning
 
 ![GNS3](https://img.shields.io/badge/GNS3-4B9CD3?style=flat&logo=gns3&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167E42?style=flat&logo=wireshark&logoColor=white)
 
 ### 🔁 Refreshing
 
@@ -147,7 +127,43 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+## 🛠️ Shared Tools & Environments
+
+---
+
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+  Used for version control across Web Development, Mobile Development, Game Development, and Cisco/IT Networking.
+
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+  Integrated Development Environment (IDE) used in Web Development, Mobile Development, and Game Development.
+
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+  API testing and development tool shared across Web Development and Mobile Development.
+
+- ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat&logo=mongodb&logoColor=white)  
+  Used for managing MongoDB databases, shared between Web Development and Game Development.
+
+- ![Wireshark](https://img.shields.io/badge/Wireshark-167E42?style=flat&logo=wireshark&logoColor=white)  
+  Network protocol analyzer used in Web Development and Cisco/IT Networking.
+
+- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
+  IDE used for building Android applications, shared between Mobile Development and Game Development.
+
+- ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)  
+  Framework for building React Native apps, used in both Mobile Development and Game Development.
+
+- ![Unity Hub](https://img.shields.io/badge/Unity_Hub-000000?style=flat&logo=unity&logoColor=white)  
+  Centralized tool for managing Unity projects, used in Game Development and Mobile Development.
+
+- ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
+  3D modeling software used in Game Development and Web Development.
+
+- ![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=jetbrains&logoColor=white)  
+  IDE for game development in Unity, shared between Game Development and Mobile Development.
+
+- ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)  
+  Image editing and graphics design tool, shared across Web Development, Mobile Development, and Game Development.
+
 ---
 
 # 📈 GitHub Stats
