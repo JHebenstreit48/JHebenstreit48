@@ -26,10 +26,11 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 
 ## 🛠️ Tech Stack & Tools
 
-### ✅ Fluent  
-
 #### Web Development
 ---
+### ✅ Fluent  
+---
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -46,6 +47,7 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### 🧠 Learning  
+---  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -61,12 +63,16 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
 ### Tools  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### 🧠 Learning  
+---
+
 
 ### Mobile Development
----
+---  
+### 🧠 Learning  
+---  
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
@@ -77,6 +83,8 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 ---
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)  
+
+---
 
 ### Learning & Networking  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
