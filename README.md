@@ -58,7 +58,7 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 
 ### 💼 **Portfolio**
 - 📁 [Repository](https://github.com/JHebenstreit48/portfolio-2025)
-- 🌐 [Live Site](https://portfolio-react-version.netlify.app/)
+- 🌐 [Live Site](https://portfolio-react-version.netlify.app/)  
 A growing showcase of my work in web development, with new additions reflecting my expanding focus on game development, mobile apps, and networking/security fundamentals (CCNA/CCNP). Built to evolve alongside my learning journey.
 
 ### 🔖 **Code Quest**
