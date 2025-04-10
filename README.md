@@ -166,29 +166,28 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 - 🌐 [Live Site](https://portfolio-react-version.netlify.app/)  
 A growing showcase of my work in web development, with new additions reflecting my expanding focus on game development, mobile apps, and networking/security fundamentals (CCNA/CCNP). Built to evolve alongside my learning journey.
 
-## 🔖 **Code Quest**
-
-- 📁 [Repository](https://github.com/JHebenstreit48/coding-notes-react)
-- 🌐 [Live Site](https://web-dev-codequest.netlify.app/)
-  A searchable knowledge base for web development concepts and code examples.
-
 ## 🕹 **Asphalt Legends Unite Tracker**
 
 - 📁 [Repository](https://github.com/JHebenstreit48/asphalt-legends-unite-react)
-- 🌐 [Live Site](https://asphalt-legends-unite-react.onrender.com/)
-  A fan-made companion for _Gameloft's Asphalt Legends Unite_ — helping players track in-game progress and stats.
+- 🌐 [Live Site](https://asphalt-legends-unite-react.onrender.com/)  
+A fan-made companion for _Gameloft's Asphalt Legends Unite_ — helping players track in-game progress and stats.
+
+## 🔖 **Code Quest**
+
+- 📁 [Repository](https://github.com/JHebenstreit48/coding-notes-react)
+- 🌐 [Live Site](https://web-dev-codequest.netlify.app/)  
+A searchable knowledge base for web development concepts and code examples.
+
+## 🌐 **Net Notes**
+- 📁 [Repository](https://github.com/JHebenstreit48/NetNotes)
+- 🌐 [Live Site](https://netnotes.netlify.app/)  
+Organized study material for CCNA, CCNP, and general networking topics.
 
 ## 🎮 **Pixel Prose**
 
 - 📁 [Repository](https://github.com/JHebenstreit48/game-development-notes)
-- 🌐 [Live Site](https://pixelprose.netlify.app/)
-  Comprehensive notes on game design and development — ideal for learners and indie devs.
-
-## 🌐 **Net Notes**
-
-- 📁 [Repository](https://github.com/JHebenstreit48/NetNotes)
-- 🌐 [Live Site](https://netnotes.netlify.app/)
-  Organized study material for CCNA, CCNP, and general networking topics.
+- 🌐 [Live Site](https://pixelprose.netlify.app/)  
+Comprehensive notes on game design and development — ideal for learners and indie devs.
 
 ---
 
