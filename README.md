@@ -1,5 +1,6 @@
-# 👨‍💻 Justin Hebenstreit — Web Developer & Tech Enthusiast  
-*Focused on Clean Code, Creative Design, and Continuous Learning*
+# 👨‍💻 Justin Hebenstreit — Web Developer & Tech Enthusiast
+
+_Focused on Clean Code, Creative Design, and Continuous Learning_
 
 ---
 
@@ -19,17 +20,18 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 
 ## 📫 Contact & Links
 
-[![Email](https://img.shields.io/badge/Email-%234a4a4a.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.hebenstreit.developer@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-%234a4a4a.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.hebenstreit.developer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-hebenstreit-6ba22920/)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & tools
 
-#### Web Development
+### 🌐 Web Development
+
 ---
-### ✅ Fluent  
----
+
+#### ✅ Fluent
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -39,15 +41,15 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Tools  
----
+### 🛠️ Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### 🧠 Learning  
----  
+#### 🧠 Learning
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -62,31 +64,95 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
-### Tools  
+### 🛠️ Tools
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-
-### Mobile Development
----  
-### 🧠 Learning  
----  
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)  
-
-### Tools  
----
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)  
+### 📱 Mobile Development
 
 ---
 
-### Learning & Networking  
+#### 🧠 Learning
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+
+### 🛠️ Tools
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+---
+
+### 🎮 Game Development
+
+---
+
+#### 🔁 Refreshing
+
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+
+#### 🧠 Learning
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![CryEngine](https://img.shields.io/badge/CryEngine-000000?style=flat&logo=cryengine&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+<details>
+<summary><strong>🧠 C Family</strong></summary>
+<br>
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+</details>
+
+### 🛠️ Tools
+
+![Unity Hub](https://img.shields.io/badge/Unity_Hub-000000?style=flat&logo=unity&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=jetbrains&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Maya](https://img.shields.io/badge/Autodesk_Maya-1B1B1B?style=flat&logo=autodesk&logoColor=lightblue)
+![ZBrush](https://img.shields.io/badge/ZBrush-000000?style=flat&logo=zbrush&logoColor=white)
+![Substance Designer](https://img.shields.io/badge/Substance_Designer-FF7C00?style=flat&logo=substance-designer&logoColor=white)
+
+---
+
+### 📶 Cisco / IT Networking
+
+---
+
+#### 🔁 Refreshing
+
+![Cisco](https://img.shields.io/badge/Cisco-1C6B87?style=flat&logo=cisco&logoColor=white)
+![Security Protocols](https://img.shields.io/badge/Security_Protocols-FF6A13?style=flat&logo=security&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0072C6?style=flat&logo=network-wifi&logoColor=white)
+![Wireless](https://img.shields.io/badge/Wireless-0070C9?style=flat&logo=wifi&logoColor=white)
+![Subnetting](https://img.shields.io/badge/Subnetting-1E90FF?style=flat&logo=network-wifi&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI_Model-800000?style=flat&logo=network-wifi&logoColor=white)
+![Routing Protocols](https://img.shields.io/badge/Routing_Protocols-7E4B96?style=flat&logo=network-wifi&logoColor=white)
+![TCP/IP Model](https://img.shields.io/badge/TCP%2FIP_Model-4C9E5A?style=flat&logo=network-wifi&logoColor=white)
+
+#### 🛠️ Tools
+
+##### Learning
+
+![GNS3](https://img.shields.io/badge/GNS3-4B9CD3?style=flat&logo=gns3&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167E42?style=flat&logo=wireshark&logoColor=white)
+
+##### 🔁 Refreshing
+
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-3366CC?style=flat&logo=cisco&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ![CCNA](https://img.shields.io/badge/CCNA-Certified-blue?style=flat&logo=cisco&logoColor=white)
@@ -105,29 +171,34 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 > These projects are actively maintained and designed with real users in mind.
 
 ### 💼 **Portfolio**
+
 - 📁 [Repository](https://github.com/JHebenstreit48/portfolio-2025)
-- 🌐 [Live Site](https://portfolio-react-version.netlify.app/)  
-A growing showcase of my work in web development, with new additions reflecting my expanding focus on game development, mobile apps, and networking/security fundamentals (CCNA/CCNP). Built to evolve alongside my learning journey.
+- 🌐 [Live Site](https://portfolio-react-version.netlify.app/)
+  A growing showcase of my work in web development, with new additions reflecting my expanding focus on game development, mobile apps, and networking/security fundamentals (CCNA/CCNP). Built to evolve alongside my learning journey.
 
 ### 🔖 **Code Quest**
-- 📁 [Repository](https://github.com/JHebenstreit48/coding-notes-react)  
-- 🌐 [Live Site](https://web-dev-codequest.netlify.app/)  
-A searchable knowledge base for web development concepts and code examples.
+
+- 📁 [Repository](https://github.com/JHebenstreit48/coding-notes-react)
+- 🌐 [Live Site](https://web-dev-codequest.netlify.app/)
+  A searchable knowledge base for web development concepts and code examples.
 
 ### 🕹 **Asphalt Legends Unite Tracker**
-- 📁 [Repository](https://github.com/JHebenstreit48/asphalt-legends-unite-react)  
-- 🌐 [Live Site](https://asphalt-legends-unite-react.onrender.com/)  
-A fan-made companion for *Gameloft's Asphalt Legends Unite* — helping players track in-game progress and stats.
+
+- 📁 [Repository](https://github.com/JHebenstreit48/asphalt-legends-unite-react)
+- 🌐 [Live Site](https://asphalt-legends-unite-react.onrender.com/)
+  A fan-made companion for _Gameloft's Asphalt Legends Unite_ — helping players track in-game progress and stats.
 
 ### 🎮 **Pixel Prose**
-- 📁 [Repository](https://github.com/JHebenstreit48/game-development-notes)  
-- 🌐 [Live Site](https://pixelprose.netlify.app/)  
-Comprehensive notes on game design and development — ideal for learners and indie devs.
+
+- 📁 [Repository](https://github.com/JHebenstreit48/game-development-notes)
+- 🌐 [Live Site](https://pixelprose.netlify.app/)
+  Comprehensive notes on game design and development — ideal for learners and indie devs.
 
 ### 🌐 **Net Notes**
-- 📁 [Repository](https://github.com/JHebenstreit48/NetNotes)  
-- 🌐 [Live Site](https://netnotes.netlify.app/)  
-Organized study material for CCNA, CCNP, and general networking topics.
+
+- 📁 [Repository](https://github.com/JHebenstreit48/NetNotes)
+- 🌐 [Live Site](https://netnotes.netlify.app/)
+  Organized study material for CCNA, CCNP, and general networking topics.
 
 ---
 
