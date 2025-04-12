@@ -25,7 +25,7 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 
 ---
 
-# 🛠️ Tech Stack & tools
+# 🛠️ Tech Stack & Tools
 
 ## 🌐 Web Development
 
@@ -131,17 +131,26 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 
 ---
 
+### ✅ Fluent
+
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-  Used for version control across Web Development, Mobile Development, Game Development, and Cisco/IT Networking.
+Used for version control across Web Development, Mobile Development, Game Development, and Cisco/IT Networking.
+
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+Used for hosting and collaborating on code repositories across all development areas. Integrated with version control, issue tracking, and documentation for Web, Mobile, Game Dev, and Networking projects.
+
 
 - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-  Integrated Development Environment (IDE) used in Web Development, Mobile Development, and Game Development.
+  Integrated Development Environment (IDE) used in Web Development, Mobile Development, and Game Development.  
+
+---
+
+  ### 🧠 Learning
 
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
   API testing and development tool shared across Web Development and Mobile Development.
 
-- ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat&logo=mongodb&logoColor=white)  
-  Used for managing MongoDB databases, shared between Web Development and Game Development.
+
 
 - ![Wireshark](https://img.shields.io/badge/Wireshark-167E42?style=flat&logo=wireshark&logoColor=white)  
   Network protocol analyzer used in Web Development and Cisco/IT Networking.
@@ -160,6 +169,10 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 
 - ![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=jetbrains&logoColor=white)  
   IDE for game development in Unity, shared between Game Development and Mobile Development.
+
+---
+
+### 🔁 Refreshing
 
 - ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)  
   Image editing and graphics design tool, shared across Web Development, Mobile Development, and Game Development.
@@ -182,6 +195,22 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 - 🌐 [Live Site](https://portfolio-react-version.netlify.app/)  
 A growing showcase of my work in web development, with new additions reflecting my expanding focus on game development, mobile apps, and networking/security fundamentals (CCNA/CCNP). Built to evolve alongside my learning journey.
 
+<details>
+  <summary><strong>🔧 Skills Used</strong></summary>
+  <br>
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+  ![React Icons](https://img.shields.io/badge/React_Icons-E91E63?style=flat&logo=react&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+
+</details>
+
+
 ## 🕹 **Asphalt Legends Unite Tracker**
 
 - 📁 [Repository](https://github.com/JHebenstreit48/asphalt-legends-unite-react)
@@ -192,7 +221,20 @@ A fan-made companion for _Gameloft's Asphalt Legends Unite_ — helping players 
 
 - 📁 [Repository](https://github.com/JHebenstreit48/coding-notes-react)
 - 🌐 [Live Site](https://web-dev-codequest.netlify.app/)  
-A searchable knowledge base for web development concepts and code examples.
+A searchable knowledge base for web development concepts and code examples.  
+<details>
+  <summary><strong>🔧 Skills Used</strong></summary>
+  <br>
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+  ![LocalStorage](https://img.shields.io/badge/LocalStorage-333333?style=flat&logo=javascript&logoColor=yellow)
+
+</details>
 
 ## 🌐 **Net Notes**
 - 📁 [Repository](https://github.com/JHebenstreit48/NetNotes)
