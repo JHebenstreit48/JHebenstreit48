@@ -140,10 +140,17 @@ Used for hosting and collaborating on code repositories across all development a
 
 
 - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-  Integrated Development Environment (IDE) used in Web Development, Mobile Development, and Game Development.
+Integrated Development Environment (IDE) used in Web Development, Mobile Development, and Game Development.
 
 - ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat&logo=mongodb&logoColor=white)  
-  GUI tool used for exploring, querying, and managing MongoDB databases. Applied in Web Development and Game Development.
+GUI tool used for exploring, querying, and managing MongoDB databases. Applied in Web Development and Game Development.
+
+- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
+Hosting and CI/CD platform for front-end sites. Used for static site deployment on projects like Portfolio, Code Quest, and NetNotes.
+
+- ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)  
+Used for deploying full-stack applications. Fluent in general use; continuing to deepen backend deployment skills across separate services.
+
 
 
 ---
@@ -228,8 +235,9 @@ A fan-made companion for _Gameloft's Asphalt Legends Unite_ — helping players 
 
 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
   <strong>Deployment:</strong>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" alt="Render badge" />
+  <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" alt="Render badge" />
 </div>
+
 
 <details>
 
