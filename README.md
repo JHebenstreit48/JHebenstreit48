@@ -95,7 +95,6 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 
 ## 🛠️ Tools
 
-![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=jetbrains&logoColor=white)
 ![Maya](https://img.shields.io/badge/Autodesk_Maya-1B1B1B?style=flat&logo=autodesk&logoColor=lightblue)
 ![ZBrush](https://img.shields.io/badge/ZBrush-000000?style=flat&logo=zbrush&logoColor=white)
 ![Substance Designer](https://img.shields.io/badge/Substance_Designer-FF7C00?style=flat&logo=substance-designer&logoColor=white)
