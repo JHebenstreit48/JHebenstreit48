@@ -140,7 +140,11 @@ Used for hosting and collaborating on code repositories across all development a
 
 
 - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-  Integrated Development Environment (IDE) used in Web Development, Mobile Development, and Game Development.  
+  Integrated Development Environment (IDE) used in Web Development, Mobile Development, and Game Development.
+
+- ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat&logo=mongodb&logoColor=white)  
+  GUI tool used for exploring, querying, and managing MongoDB databases. Applied in Web Development and Game Development.
+
 
 ---
 
@@ -194,6 +198,12 @@ Used for hosting and collaborating on code repositories across all development a
 - 🌐 [Live Site](https://portfolio-react-version.netlify.app/)  
 A growing showcase of my work in web development, with new additions reflecting my expanding focus on game development, mobile apps, and networking/security fundamentals (CCNA/CCNP). Built to evolve alongside my learning journey.
 
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+  <strong>Deployment:</strong>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
+</div>
+
+
 <details>
   <summary><strong>🔧 Skills Used</strong></summary>
   <br>
@@ -216,12 +226,13 @@ A growing showcase of my work in web development, with new additions reflecting 
 - 🌐 [Live Site](https://asphalt-legends-unite-react.onrender.com/)  
 A fan-made companion for _Gameloft's Asphalt Legends Unite_ — helping players track in-game progress and stats.
 
-## 🔖 **Code Quest**
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+  <strong>Deployment:</strong>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" alt="Render badge" />
+</div>
 
-- 📁 [Repository](https://github.com/JHebenstreit48/coding-notes-react)
-- 🌐 [Live Site](https://web-dev-codequest.netlify.app/)  
-A searchable knowledge base for web development concepts and code examples.  
 <details>
+
   <summary><strong>🔧 Skills Used</strong></summary>
   <br>
 
@@ -230,7 +241,32 @@ A searchable knowledge base for web development concepts and code examples.
   ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![MongoDB Compass](https://img.shields.io/badge/Compass-4FAA41?style=flat&logo=mongodb&logoColor=white)
+
+</details>
+
+## 🔖 **Code Quest**
+
+- 📁 [Repository](https://github.com/JHebenstreit48/coding-notes-react)
+- 🌐 [Live Site](https://web-dev-codequest.netlify.app/)  
+A searchable knowledge base for web development concepts and code examples.
+
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+  <strong>Deployment:</strong>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
+</div>
+
+<details>
+
+  <summary><strong>🔧 Skills Used</strong></summary>
+  <br>
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   ![LocalStorage](https://img.shields.io/badge/LocalStorage-333333?style=flat&logo=javascript&logoColor=yellow)
 
 </details>
@@ -240,11 +276,49 @@ A searchable knowledge base for web development concepts and code examples.
 - 🌐 [Live Site](https://netnotes.netlify.app/)  
 Organized study material for CCNA, CCNP, and general networking topics.
 
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+  <strong>Deployment:</strong>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
+</div>
+
+<details>
+
+  <summary><strong>🔧 Skills Used</strong></summary>
+  <br>
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![LocalStorage](https://img.shields.io/badge/LocalStorage-333333?style=flat&logo=javascript&logoColor=yellow)
+
+</details>
+
 ## 🎮 **Pixel Prose**
 
 - 📁 [Repository](https://github.com/JHebenstreit48/game-development-notes)
 - 🌐 [Live Site](https://pixelprose.netlify.app/)  
 Comprehensive notes on game design and development — ideal for learners and indie devs.
+
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+  <strong>Deployment:</strong>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
+</div>
+
+<details>
+
+  <summary><strong>🔧 Skills Used</strong></summary>
+  <br>
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![LocalStorage](https://img.shields.io/badge/LocalStorage-333333?style=flat&logo=javascript&logoColor=yellow)
+
+</details>
 
 ---
 
