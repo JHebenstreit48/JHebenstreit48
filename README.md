@@ -191,25 +191,55 @@ Used for deploying full-stack applications. Fluent in general use; continuing to
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JHebenstreit48&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=800080&text_color=9f9f9f&icon_color=00008B&ring_color=FFD700&border_radius=15&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JHebenstreit48&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=800080&text_color=9f9f9f&icon_color=00008B&ring_color=FFD700&border_radius=15&cache_seconds=1800&v=2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHebenstreit48&layout=compact&bg_color=0d1117&title_color=800080&text_color=9f9f9f&icon_color=00008B&border_radius=15&v=2)
+
+---
+
+## 🎓 Group Project Contributions
+
+During my full-stack coding bootcamp, I participated in several collaborative repositories focused on team-based development. These projects emphasized real-world workflows including Git branching strategies, pull request reviews, and agile-style planning.
+
+> Contributed to 3 collaborative repositories during bootcamp.  
+> Most of my ongoing work is housed in personal projects, which account for over **850 PRs** and **1,800 commits** across my GitHub profile.
+
+### 📦 Sample Projects (Placeholders):
+
+- 🧩 **[Project Name Placeholder 1]**  
+  _Brief description of your role or what you contributed_  
+  ▸ [GitHub Repo](#) | [Live Demo](#)
+
+- ⚙️ **[Project Name Placeholder 2]**  
+  _Brief description of your role or what you contributed_  
+  ▸ [GitHub Repo](#) | [Live Demo](#)
+
+- 🗄️ **[Project Name Placeholder 3]**  
+  _Brief description of your role or what you contributed_  
+  ▸ [GitHub Repo](#) | [Live Demo](#)
 
 ---
 
 # 📌 Featured Projects
 
-> These projects are actively maintained and designed with real users in mind.
+> These projects are actively maintained and designed with real users in mind.  
+> Several are being expanded with full-stack features, alternate framework builds, and backend integrations — reflecting my ongoing development as a full-stack developer.
+
+---
 
 ## 💼 **Portfolio**
 
-- 📁 [Repository](https://github.com/JHebenstreit48/portfolio-2025)
+- 📁 [Repository](https://github.com/JHebenstreit48/portfolio-2025)  
 - 🌐 [Live Site](https://portfolio-react-version.netlify.app/)  
 A growing showcase of my work in web development, with new additions reflecting my expanding focus on game development, mobile apps, and networking/security fundamentals (CCNA/CCNP). Built to evolve alongside my learning journey.
+
+> 🔄 GraphQL + Apollo integration in progress (contact form)  
+> ⚙️ Backend server deployed and active — feature under construction
 
 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
   <strong>Deployment:</strong>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
 </div>
-
 
 <details>
   <summary><strong>🔧 Skills Used</strong></summary>
@@ -223,24 +253,31 @@ A growing showcase of my work in web development, with new additions reflecting 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![React Icons](https://img.shields.io/badge/React_Icons-E91E63?style=flat&logo=react&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+  ![Apollo](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)
+  <br><br>
+  🚧 <strong>Status:</strong> Feature in progress – GraphQL server live, frontend integration ongoing
 </details>
 
+---
 
 ## 🕹 **Asphalt Legends Unite Tracker**
 
-- 📁 [Repository](https://github.com/JHebenstreit48/asphalt-legends-unite-react)
+- 📁 [Repository](https://github.com/JHebenstreit48/asphalt-legends-unite-react)  
 - 🌐 [Live Site](https://asphalt-legends-unite-react.onrender.com/)  
-A fan-made companion for _Gameloft's Asphalt Legends Unite_ — helping players track in-game progress and stats.
+A detailed and continuously evolving fan-made tracker for *Gameloft’s Asphalt Legends Unite*. Designed to help players track in-game progress, vehicle unlocks, and game content that’s not available through official tools.
+
+> 🧩 More fleshed out than my other projects, but still a work in progress  
+> 🔄 Manufacturer descriptions, logos, and new update pages still being added  
+> 🧪 Rebuild in Angular + GraphQL under consideration  
+> 🌐 Hosted on Render with optimized performance for player accessibility
 
 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
   <strong>Deployment:</strong>
   <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" alt="Render badge" />
 </div>
 
-
 <details>
-
   <summary><strong>🔧 Skills Used</strong></summary>
   <br>
 
@@ -254,19 +291,26 @@ A fan-made companion for _Gameloft's Asphalt Legends Unite_ — helping players 
 
 </details>
 
+---
+
 ## 🔖 **Code Quest**
 
-- 📁 [Repository](https://github.com/JHebenstreit48/coding-notes-react)
+- 📁 [Repository](https://github.com/JHebenstreit48/CodeQuest)  
 - 🌐 [Live Site](https://web-dev-codequest.netlify.app/)  
 A searchable knowledge base for web development concepts and code examples.
 
+> 🧩 Shares layout with **Pixel Prose** and **Net Notes**  
+> 📁 Part of a multi-repo umbrella project — see [CodeQuest Versions](https://github.com/JHebenstreit48/codequest-versions)  
+> 🔄 Angular full-stack version in development  
+> 🧪 Vue/Svelte versions being explored  
+> 🛠️ Still being expanded as I continue to learn
+
 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
   <strong>Deployment:</strong>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
 </div>
 
 <details>
-
   <summary><strong>🔧 Skills Used</strong></summary>
   <br>
 
@@ -280,18 +324,27 @@ A searchable knowledge base for web development concepts and code examples.
 
 </details>
 
+---
+
 ## 🌐 **Net Notes**
-- 📁 [Repository](https://github.com/JHebenstreit48/NetNotes)
+
+- 📁 [Repository](https://github.com/JHebenstreit48/NetNotes)  
 - 🌐 [Live Site](https://netnotes.netlify.app/)  
 Organized study material for CCNA, CCNP, and general networking topics.
 
+> 🧩 Shares layout with **Code Quest** and **Pixel Prose**  
+> 📁 Part of a multi-repo umbrella project — see [NetNotes Versions](https://github.com/JHebenstreit48/netnotes-versions)  
+> 🔄 Angular full-stack version in development  
+> 🧪 Vue/Svelte versions being explored  
+> 🧪 Backend integration under consideration  
+> 🛠️ Still being expanded as I continue to learn
+
 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
   <strong>Deployment:</strong>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
 </div>
 
 <details>
-
   <summary><strong>🔧 Skills Used</strong></summary>
   <br>
 
@@ -305,11 +358,20 @@ Organized study material for CCNA, CCNP, and general networking topics.
 
 </details>
 
+---
+
 ## 🎮 **Pixel Prose**
 
-- 📁 [Repository](https://github.com/JHebenstreit48/game-development-notes)
+- 📁 [Repository](https://github.com/JHebenstreit48/PixelProse)  
 - 🌐 [Live Site](https://pixelprose.netlify.app/)  
 Comprehensive notes on game design and development — ideal for learners and indie devs.
+
+> 🧩 Shares layout with **Code Quest** and **Net Notes**  
+> 📁 Part of a multi-repo umbrella project — see [PixelProse Versions](https://github.com/JHebenstreit48/pixelprose-versions)  
+> 🔄 Angular full-stack version in development  
+> 🧪 Vue/Svelte versions being explored  
+> 🧪 Backend integration under consideration  
+> 🛠️ Still being expanded as I continue to learn
 
 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
   <strong>Deployment:</strong>
@@ -317,7 +379,6 @@ Comprehensive notes on game design and development — ideal for learners and in
 </div>
 
 <details>
-
   <summary><strong>🔧 Skills Used</strong></summary>
   <br>
 
