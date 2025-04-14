@@ -204,19 +204,35 @@ During my full-stack coding bootcamp, I participated in several collaborative re
 > Contributed to 3 collaborative repositories during bootcamp.  
 > Most of my ongoing work is housed in personal projects, which account for over **850 PRs** and **1,800 commits** across my GitHub profile.
 
-### 📦 Sample Projects (Placeholders):
+### 📦 Collaborative Projects:
 
-- 🧩 **[Project Name Placeholder 1]**  
-  _Brief description of your role or what you contributed_  
-  ▸ [GitHub Repo](#) | [Live Demo](#)
+> This section highlights collaborative projects I’ve contributed to — both during my 6-month coding bootcamp and beyond. These projects involved team-based planning, shared GitHub workflows, and cross-functional development. Additional contributions will be added over time.
 
-- ⚙️ **[Project Name Placeholder 2]**  
-  _Brief description of your role or what you contributed_  
-  ▸ [GitHub Repo](#) | [Live Demo](#)
+## 🧩 **Time Sheet**  
+_First group project assignment completed during my coding bootcamp. I contributed to layout structure, styling, and core JavaScript logic._
 
-- 🗄️ **[Project Name Placeholder 3]**  
+▸ [Repo](https://github.com/AdminChatter/TimeSheetJuly2nd) | [Live Site](https://adminchatter.github.io/TimeSheetJuly2nd/)
+
+### 👥 **Contributors:**  
+- [AdminChatter](https://github.com/AdminChatter) – Repository Owner  
+- [JHebenstreit48](https://github.com/JHebenstreit48) – Developer  
+- [LGX10](https://github.com/LGX10) - Developer
+- [Reisleo99](https://github.com/Reisleo99) - Developer
+
+## ⚙️ **Melodify**  
   _Brief description of your role or what you contributed_  
-  ▸ [GitHub Repo](#) | [Live Demo](#)
+  ▸ [Repo](https://github.com/Isaiahcapers/Melodify) | [Live Site]()
+
+## 🗄️ **codeBounty**  
+  _Brief description of your role or what you contributed_  
+  ▸ [Repo](https://github.com/bryceberczik/codeBounty) | [Live Site]()
+
+### 👥 **Contributors:**
+  - [bryceberczik](https://github.com/bryceberczik) - Repository Owner
+  - [JHebenstreit48](https://github.com/JHebenstreit48) – Developer
+  - [ZVKubajak](https://github.com/ZVKubajak) - Developer
+  - [jarvisyoung24](https://github.com/jarvisyoung24)
+
 
 ---
 
