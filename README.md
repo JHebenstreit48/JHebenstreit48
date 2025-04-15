@@ -221,17 +221,17 @@ _First group project assignment completed during my coding bootcamp. I contribut
 
 ## ⚙️ **Melodify**  
   _Brief description of your role or what you contributed_  
-  ▸ [Repo](https://github.com/Isaiahcapers/Melodify) | [Live Site]()
+  ▸ [Repo](https://github.com/Isaiahcapers/Melodify) | [Live Site](https://melodify-mycopy.onrender.com/)
 
 ## 🗄️ **codeBounty**  
   _Brief description of your role or what you contributed_  
-  ▸ [Repo](https://github.com/bryceberczik/codeBounty) | [Live Site]()
+  ▸ [Repo](https://github.com/bryceberczik/codeBounty) | [Live Site](https://codebounty-production.up.railway.app/)
 
 ### 👥 **Contributors:**
   - [bryceberczik](https://github.com/bryceberczik) - Repository Owner
   - [JHebenstreit48](https://github.com/JHebenstreit48) – Developer
   - [ZVKubajak](https://github.com/ZVKubajak) - Developer
-  - [jarvisyoung24](https://github.com/jarvisyoung24)
+  - [jarvisyoung24](https://github.com/jarvisyoung24) - Developer
 
 
 ---
