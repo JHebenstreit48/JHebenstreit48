@@ -221,7 +221,12 @@ _First group project assignment completed during my coding bootcamp. I contribut
 
 ## ⚙️ **Melodify**  
   _Brief description of your role or what you contributed_  
-  ▸ [Repo](https://github.com/Isaiahcapers/Melodify) | [Live Site](https://melodify-mycopy.onrender.com/)
+  ▸ [Repo](https://github.com/Isaiahcapers/Melodify) | [Live Site](https://melodify-mycopy.onrender.com/) (working on fixing deployment)
+
+### 👥 **Contributors:**
+
+[Isaiahcapers](https://github.com/Isaiahcapers/Melodify/commits?author=Isaiahcapers)
+[sashamolotovs7](https://github.com/sashamolotovs7)
 
 ## 🗄️ **codeBounty**  
   _Brief description of your role or what you contributed_  
