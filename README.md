@@ -225,8 +225,9 @@ _First group project assignment completed during my coding bootcamp. I contribut
 
 ### 👥 **Contributors:**
 
-[Isaiahcapers](https://github.com/Isaiahcapers/Melodify/commits?author=Isaiahcapers)
-[sashamolotovs7](https://github.com/sashamolotovs7)
+- [Isaiahcapers](https://github.com/Isaiahcapers/Melodify/commits?author=Isaiahcapers) – Repository Owner
+- [JHebenstreit48](https://github.com/JHebenstreit48) – Developer
+- [sashamolotovs7](https://github.com/sashamolotovs7) – Developer
 
 ## 🗄️ **codeBounty**  
   _Brief description of your role or what you contributed_  
