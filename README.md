@@ -327,12 +327,18 @@ A searchable knowledge base for web development concepts and code examples.
 > 🧪 Vue/Svelte versions being explored  
 > 🛠️ Still being expanded as I continue to learn
 
-**Deployment:**
-
-|             |             |
-|-------------|-------------|
-| ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) |   |
-| ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white) | – (Notes transferred to back end – Coming Soon) |
+<div style="display: flex; align-items: flex-start; gap: 4px;">
+  <strong style="margin-top: 14px;">Deployment:</strong>
+  <div>
+    <div style="margin-bottom: 1px;">
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
+    </div>
+    <div style="display: inline-flex; align-items: center; gap: 6px;">
+      <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" alt="Render badge" />
+      <span>– (Notes transferred to back end – Coming Soon)</span>
+    </div>
+  </div>
+</div>
 
 <details style="margin-top: 8px;">
   <summary><strong>🔧 Skills Used</strong></summary>
