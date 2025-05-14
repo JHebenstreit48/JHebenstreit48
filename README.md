@@ -315,7 +315,7 @@ A detailed and continuously evolving fan-made tracker for *Gameloft’s Asphalt 
 
 ---
 
-## 🔖 **Code Quest**
+## 🔖 **CodeQuest**
 
 - 📁 [Repository](https://github.com/JHebenstreit48/CodeQuest)  
 - 🌐 [Live Site](https://web-dev-codequest.netlify.app/)  
@@ -327,28 +327,40 @@ A searchable knowledge base for web development concepts and code examples.
 > 🧪 Vue/Svelte versions being explored  
 > 🛠️ Still being expanded as I continue to learn
 
-<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
-  <strong>Deployment:</strong>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
+<div style="display: flex; align-items: flex-start; gap: 4px;">
+  <strong style="margin-top: 14px;">Deployment:</strong>
+  <div>
+    <div style="margin-bottom: 1px;">
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
+    </div>
+    <div style="display: inline-flex; align-items: center; gap: 6px;">
+      <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" alt="Render badge" />
+      <span>– (Notes transferred to back end – Coming Soon)</span>
+    </div>
+  </div>
 </div>
 
-<details>
+<details style="margin-top: 8px;">
   <summary><strong>🔧 Skills Used</strong></summary>
-  <br>
+  <br />
 
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![LocalStorage](https://img.shields.io/badge/LocalStorage-333333?style=flat&logo=javascript&logoColor=yellow)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LocalStorage-333333?style=flat&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 
+  <br />
+  <strong>🛠 Work In Progress</strong><br />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Compass-4FAA41?style=flat&logo=mongodb&logoColor=white" />
 </details>
 
 ---
 
-## 🌐 **Net Notes**
+## 🌐 **NetNotes**
 
 - 📁 [Repository](https://github.com/JHebenstreit48/NetNotes)  
 - 🌐 [Live Site](https://netnotes.netlify.app/)  
@@ -361,28 +373,40 @@ Organized study material for CCNA, CCNP, and general networking topics.
 > 🧪 Backend integration under consideration  
 > 🛠️ Still being expanded as I continue to learn
 
-<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
-  <strong>Deployment:</strong>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
+<div style="display: flex; align-items: flex-start; gap: 4px;">
+  <strong style="margin-top: 14px;">Deployment:</strong>
+  <div>
+    <div style="margin-bottom: 1px;">
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
+    </div>
+    <div style="display: inline-flex; align-items: center; gap: 6px;">
+      <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" alt="Render badge" />
+      <span>– (Notes transferred to back end – Coming Soon)</span>
+    </div>
+  </div>
 </div>
 
-<details>
+<details style="margin-top: 8px;">
   <summary><strong>🔧 Skills Used</strong></summary>
-  <br>
+  <br />
 
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![LocalStorage](https://img.shields.io/badge/LocalStorage-333333?style=flat&logo=javascript&logoColor=yellow)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LocalStorage-333333?style=flat&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 
+  <br />
+  <strong>🛠 Work In Progress</strong><br />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Compass-4FAA41?style=flat&logo=mongodb&logoColor=white" />
 </details>
 
 ---
 
-## 🎮 **Pixel Prose**
+## 🎮 **PixelProse**
 
 - 📁 [Repository](https://github.com/JHebenstreit48/PixelProse)  
 - 🌐 [Live Site](https://pixelprose.netlify.app/)  
@@ -395,23 +419,35 @@ Comprehensive notes on game design and development — ideal for learners and in
 > 🧪 Backend integration under consideration  
 > 🛠️ Still being expanded as I continue to learn
 
-<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
-  <strong>Deployment:</strong>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
+<div style="display: flex; align-items: flex-start; gap: 4px;">
+  <strong style="margin-top: 14px;">Deployment:</strong>
+  <div>
+    <div style="margin-bottom: 1px;">
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify badge" />
+    </div>
+    <div style="display: inline-flex; align-items: center; gap: 6px;">
+      <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" alt="Render badge" />
+      <span>– (Notes transferred to back end – Coming Soon)</span>
+    </div>
+  </div>
 </div>
 
-<details>
+<details style="margin-top: 8px;">
   <summary><strong>🔧 Skills Used</strong></summary>
-  <br>
+  <br />
 
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![LocalStorage](https://img.shields.io/badge/LocalStorage-333333?style=flat&logo=javascript&logoColor=yellow)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LocalStorage-333333?style=flat&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 
+  <br />
+  <strong>🛠 Work In Progress</strong><br />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Compass-4FAA41?style=flat&logo=mongodb&logoColor=white" />
 </details>
 
 ---
