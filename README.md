@@ -286,7 +286,7 @@ A growing showcase of my work in web development, with new additions reflecting 
 ## 🕹 **Asphalt Legends Unite Tracker**
 
 - 📁 [Repository](https://github.com/JHebenstreit48/asphalt-legends-unite-react)  
-- 🌐 [Live Site](https://asphalt-legends-unite-react.onrender.com/)  
+- 🌐 [Live Site](https://asphaltlegendsunitetracker.netlify.app/)  
 A detailed and continuously evolving fan-made tracker for *Gameloft’s Asphalt Legends Unite*. Designed to help players track in-game progress, vehicle unlocks, and game content that’s not available through official tools.
 
 > 🧩 More fleshed out than my other projects, but still a work in progress  
