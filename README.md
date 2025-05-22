@@ -318,7 +318,7 @@ A detailed and continuously evolving fan-made tracker for *Gameloft’s Asphalt 
 ## 🔖 **CodeQuest**
 
 - 📁 [Repository](https://github.com/JHebenstreit48/CodeQuest)  
-- 🌐 [Live Site](https://web-dev-codequest.netlify.app/)  
+- 🌐 [Live Site](https://codequest-notes.netlify.app/)  
 A searchable knowledge base for web development concepts and code examples.
 
 > 🧩 Shares layout with **Pixel Prose** and **Net Notes**  
