@@ -69,35 +69,7 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
----
-
-## 🎮 Game Development
-
-### 🧠 Learning
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unrealengine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-![CryEngine](https://img.shields.io/badge/CryEngine-000000?style=flat&logo=cryengine&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-<details>
-<summary><strong>🧠 C Family</strong></summary>
-<br>
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-</details>
-
-## 🛠️ Tools
-
-![Maya](https://img.shields.io/badge/Autodesk_Maya-1B1B1B?style=flat&logo=autodesk&logoColor=lightblue)
-![ZBrush](https://img.shields.io/badge/ZBrush-000000?style=flat&logo=zbrush&logoColor=white)
-![Substance Designer](https://img.shields.io/badge/Substance_Designer-FF7C00?style=flat&logo=substance-designer&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)  
 
 ---
 
@@ -151,16 +123,12 @@ Hosting and CI/CD platform for front-end sites. Used for static site deployment 
 - ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)  
 Used for deploying full-stack applications. Fluent in general use; continuing to deepen backend deployment skills across separate services.
 
-
-
 ---
 
   ### 🧠 Learning
 
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
   API testing and development tool shared across Web Development and Mobile Development.
-
-
 
 - ![Wireshark](https://img.shields.io/badge/Wireshark-167E42?style=flat&logo=wireshark&logoColor=white)  
   Network protocol analyzer used in Web Development and Cisco/IT Networking.
@@ -238,7 +206,6 @@ _First group project assignment completed during my coding bootcamp. I contribut
   - [JHebenstreit48](https://github.com/JHebenstreit48) – Developer
   - [ZVKubajak](https://github.com/ZVKubajak) - Developer
   - [jarvisyoung24](https://github.com/jarvisyoung24) - Developer
-
 
 ---
 
