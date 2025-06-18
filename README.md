@@ -73,8 +73,47 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 
 ---
 
+## 🎮 Game Development
+
+I'm beginning my journey into game development, currently learning **C# and Unity** through hands-on projects and a structured Udemy course. While still early in my experience, I’m exploring how game development principles intersect with interactive design, animation, and real-time systems.
+
+<!--
+### 🧠 Learning
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![CryEngine](https://img.shields.io/badge/CryEngine-000000?style=flat&logo=cryengine&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+<details>
+<summary><strong>🧠 C Family</strong></summary>
+<br>
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+</details>
+
+## 🛠️ Tools
+
+![Maya](https://img.shields.io/badge/Autodesk_Maya-1B1B1B?style=flat&logo=autodesk&logoColor=lightblue)
+![ZBrush](https://img.shields.io/badge/ZBrush-000000?style=flat&logo=zbrush&logoColor=white)
+![Substance Designer](https://img.shields.io/badge/Substance_Designer-FF7C00?style=flat&logo=substance-designer&logoColor=white)
+
+-->
+
+---
+
 ## 📶 Cisco / IT Networking
 
+I previously earned my CCNA in Routing, Switching, and Network Security. Although the certification has expired, I maintain a strong foundation in networking and IT infrastructure — and I **plan to recertify in the future** as part of my long-term goals.
+
+At present, my primary focus is on full-stack web and mobile development using JavaScript, React, React Native, and related technologies, but I remain committed to staying sharp across both development and networking disciplines.
+
+<!--
 ### 🔁 Refreshing
 
 ![Cisco](https://img.shields.io/badge/Cisco-1C6B87?style=flat&logo=cisco&logoColor=white)
@@ -95,6 +134,8 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 ### 🔁 Refreshing
 
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-3366CC?style=flat&logo=cisco&logoColor=white)
+
+-->
 
 ---
 
