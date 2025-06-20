@@ -8,11 +8,14 @@ _Focused on Clean Code, Creative Design, and Continuous Learning_
 
 I'm a web developer with a creative eye, a technical mindset, and a drive to continuously improve. I specialize in front-end development and actively explore full-stack technologies, always aiming to build intuitive, responsive digital experiences.
 
-My background includes both **structured training** and **self-directed learning**:
+My background includes both **structured training**, **self-directed learning**, and a **formal arts education**:
 
 - 🎓 Completed a **Full-Stack Web Development Bootcamp** (June–Nov 2024)
-- 🎓 Earned an **Associate's Degree in IT (2018–2019)** with CCNA certifications in Routing & Switching and Network Security
-- 🧱 Background in **LEGO building** and **photography** helped shape my attention to detail and spatial design
+- 🎓 Earned an **Associate's Degree in IT** with CCNA certifications in Routing & Switching and Network Security
+- 🎓 Hold a **Bachelor’s Degree in Photography**, which sharpened my eye for composition, color, and visual storytelling — all of which now fuel my front-end development work
+- 🧱 Years of **LEGO building** helped develop my attention to detail, logical problem-solving, and love for building things piece by piece — much like writing clean, modular code
+
+While I’m growing my backend skills and love learning how things work under the hood, I gravitate toward the **visual, interactive side of development**. I enjoy crafting clean, stylish UIs that are both functional and beautiful — and maybe a little pixel-perfect, too.
 
 Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript**, I'm always pushing myself to broaden my knowledge, explore new tools, and deepen my understanding of web development.
 
