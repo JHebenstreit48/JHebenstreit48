@@ -326,14 +326,14 @@ A detailed and continuously evolving fan-made tracker for *Gameloft’s Asphalt 
 
 ---
 
-## 🔖 **CodeQuest**
+## 🔖 **DevScriptStax**
 
-- 📁 [Repository](https://github.com/JHebenstreit48/CodeQuest)  
-- 🌐 [Live Site](https://codequest-notes.netlify.app/)  
+- 📁 [Front End Repo](https://github.com/JHebenstreit48/DevScriptStax)  
+- 🌐 [Live Site](https://devscriptstax.netlify.app/)  
 A searchable knowledge base for web development concepts and code examples.
 
 > 🧩 Shares layout with **Pixel Prose** and **Net Notes**  
-> 📁 Part of a multi-repo umbrella project — see [CodeQuest Versions](https://github.com/JHebenstreit48/codequest-versions)  
+> 📁 Part of a multi-repo umbrella project — see [DevScriptStax Versions](https://github.com/JHebenstreit48/codequest-versions)  
 > 🔄 Angular full-stack version in development  
 > 🧪 Vue/Svelte versions being explored  
 > 🛠️ Still being expanded as I continue to learn
