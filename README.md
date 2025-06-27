@@ -220,8 +220,9 @@ During my full-stack coding bootcamp, I participated in several collaborative re
 
 > This section highlights collaborative projects I’ve contributed to — both during my 6-month coding bootcamp and beyond. These projects involved team-based planning, shared GitHub workflows, and cross-functional development. Additional contributions will be added over time.
 
-## 🧩 **Time Sheet**  
-_First group project assignment completed during my coding bootcamp. I contributed to layout structure, styling, and core JavaScript logic._
+## 🧩 **Time Sheet**
+
+First group project assignment completed during my coding bootcamp. I contributed to layout structure, styling, and core JavaScript logic._
 
 ▸ [Repo](https://github.com/AdminChatter/TimeSheetJuly2nd) | [Live Site](https://adminchatter.github.io/TimeSheetJuly2nd/)
 
@@ -232,7 +233,8 @@ _First group project assignment completed during my coding bootcamp. I contribut
 - [Reisleo99](https://github.com/Reisleo99) - Developer
 
 ## ⚙️ **Melodify**  
-  _Brief description of your role or what you contributed_  
+Music player we created similar to Spotify.  
+
   ▸ [Repo](https://github.com/Isaiahcapers/Melodify) | [Live Site](https://melodify-mycopy.onrender.com/) (working on fixing deployment)
 
 ### 👥 **Contributors:**
@@ -242,16 +244,20 @@ _First group project assignment completed during my coding bootcamp. I contribut
 - [sashamolotovs7](https://github.com/sashamolotovs7) – Developer
 
 ## 🗄️ **codeBounty**  
-  _Brief description of your role or what you contributed_  
+Website created to function similarly to Fiverr or other freelance work site.  
+
   ▸ [Repo](https://github.com/bryceberczik/codeBounty) | [Live Site](https://codebounty-production.up.railway.app/)
 
 ### 👥 **Contributors:**
   - [bryceberczik](https://github.com/bryceberczik) - Repository Owner
   - [JHebenstreit48](https://github.com/JHebenstreit48) – Developer
   - [ZVKubajak](https://github.com/ZVKubajak) - Developer
-  - [jarvisyoung24](https://github.com/jarvisyoung24) - Developer
+  - [jarvisyoung24](https://github.com/jarvisyoung24) - Developer  
+
+<br>
 
 ---
+
 
 # 📌 Featured Projects
 
