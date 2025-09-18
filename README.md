@@ -201,13 +201,13 @@ Used for deploying full-stack applications. Fluent in general use; continuing to
 
 ---
 
-# 📈 GitHub Stats
+<!-- # 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JHebenstreit48&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=800080&text_color=9f9f9f&icon_color=00008B&ring_color=FFD700&border_radius=15&cache_seconds=1800&v=2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHebenstreit48&layout=compact&bg_color=0d1117&title_color=800080&text_color=9f9f9f&icon_color=00008B&border_radius=15&v=2)
 
----
+--- -->
 
 ## 🎓 Group Project Contributions
 
@@ -232,7 +232,7 @@ First group project assignment completed during my coding bootcamp. I contribute
 - [LGX10](https://github.com/LGX10) - Developer
 - [Reisleo99](https://github.com/Reisleo99) - Developer
 
-## ⚙️ **Melodify**  
+<!-- ## ⚙️ **Melodify**  
 Music player we created similar to Spotify.  
 
   ▸ [Repo](https://github.com/Isaiahcapers/Melodify) | [Live Site](https://melodify-mycopy.onrender.com/) (working on fixing deployment)
@@ -241,7 +241,7 @@ Music player we created similar to Spotify.
 
 - [Isaiahcapers](https://github.com/Isaiahcapers/Melodify/commits?author=Isaiahcapers) – Repository Owner
 - [JHebenstreit48](https://github.com/JHebenstreit48) – Developer
-- [sashamolotovs7](https://github.com/sashamolotovs7) – Developer
+- [sashamolotovs7](https://github.com/sashamolotovs7) – Developer -->
 
 ## 🗄️ **codeBounty**  
 Website created to function similarly to Fiverr or other freelance work site.  
