@@ -6,18 +6,24 @@ _Focused on Clean Code, Creative Design, and Continuous Learning_
 
 # 🚀 About Me
 
-I'm a web developer with a creative eye, a technical mindset, and a drive to continuously improve. I specialize in front-end development and actively explore full-stack technologies, always aiming to build intuitive, responsive digital experiences.
+I’m a web developer with a creative eye, a technical mindset, and a strong drive to continuously improve. I focus primarily on front-end development while actively expanding into full-stack concepts, aiming to build intuitive, responsive, and well-structured digital experiences.
 
-My background includes both **structured training**, **self-directed learning**, and a **formal arts education**:
+My background blends structured training, self-directed learning, and creative education:
 
-- 🎓 Completed a **Full-Stack Web Development Bootcamp** (June–Nov 2024)
-- 🎓 Earned an **Associate's Degree in IT** with CCNA certifications in Routing & Switching and Network Security
-- 🎓 Hold a **Bachelor’s Degree in Photography**, which sharpened my eye for composition, color, and visual storytelling — all of which now fuel my front-end development work
-- 🧱 Years of **LEGO building** helped develop my attention to detail, logical problem-solving, and love for building things piece by piece — much like writing clean, modular code
+🎓 Completed a Full-Stack Web Development Bootcamp (June–Nov 2024)  
+🎓 Earned an Associate’s Degree in IT with CCNA certifications in Routing & Switching
+and Network Security (expired, currently refreshing and organizing knowledge)  
+🎓 Hold a Bachelor’s Degree in Photography, which sharpened my eye for composition,
+color, and visual storytelling — skills I now apply directly to UI and UX design  
+🧱 Years of LEGO building taught me attention to detail, logical problem-solving, and the satisfaction of building complex systems piece by piece — much like writing clean, modular code
 
-While I’m growing my backend skills and love learning how things work under the hood, I gravitate toward the **visual, interactive side of development**. I enjoy crafting clean, stylish UIs that are both functional and beautiful — and maybe a little pixel-perfect, too.
+I’m currently building large, structured notes and documentation platforms covering web development, game development, mobile development, and networking. To scale these projects and bring them to a usable, finished state more quickly, I frequently use AI-assisted development tools as part of my workflow while continuing to learn core concepts.
 
-Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript**, I'm always pushing myself to broaden my knowledge, explore new tools, and deepen my understanding of web development.
+AI output is treated as a starting point, with manual review and refinement applied as needed to ensure correct rendering, structure, and maintainability across projects.
+
+While I enjoy learning how things work under the hood, I gravitate toward the visual and interactive side of development. I care deeply about clean layouts, clear navigation, and interfaces that feel intentional — maybe even a little pixel-perfect.
+
+Even with strong experience in HTML, CSS, JavaScript, and TypeScript, I’m always pushing myself to deepen my understanding, explore new tools, and keep building.
 
 ---
 
@@ -72,7 +78,7 @@ Even though I'm fluent in languages like **HTML, CSS, JavaScript, and TypeScript
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)  
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 ---
 
@@ -149,27 +155,26 @@ At present, my primary focus is on full-stack web and mobile development using J
 ### ✅ Fluent
 
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-Used for version control across Web Development, Mobile Development, Game Development, and Cisco/IT Networking.
+  Used for version control across Web Development, Mobile Development, Game Development, and Cisco/IT Networking.
 
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-Used for hosting and collaborating on code repositories across all development areas. Integrated with version control, issue tracking, and documentation for Web, Mobile, Game Dev, and Networking projects.
-
+  Used for hosting and collaborating on code repositories across all development areas. Integrated with version control, issue tracking, and documentation for Web, Mobile, Game Dev, and Networking projects.
 
 - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-Integrated Development Environment (IDE) used in Web Development, Mobile Development, and Game Development.
+  Integrated Development Environment (IDE) used in Web Development, Mobile Development, and Game Development.
 
 - ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat&logo=mongodb&logoColor=white)  
-GUI tool used for exploring, querying, and managing MongoDB databases. Applied in Web Development and Game Development.
+  GUI tool used for exploring, querying, and managing MongoDB databases. Applied in Web Development and Game Development.
 
 - ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
-Hosting and CI/CD platform for front-end sites. Used for static site deployment on projects like Portfolio, Code Quest, and NetNotes.
+  Hosting and CI/CD platform for front-end sites. Used for static site deployment on projects like Portfolio, Code Quest, and NetNotes.
 
 - ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)  
-Used for deploying full-stack applications. Fluent in general use; continuing to deepen backend deployment skills across separate services.
+  Used for deploying full-stack applications. Fluent in general use; continuing to deepen backend deployment skills across separate services.
 
 ---
 
-  ### 🧠 Learning
+### 🧠 Learning
 
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
   API testing and development tool shared across Web Development and Mobile Development.
@@ -222,18 +227,19 @@ During my full-stack coding bootcamp, I participated in several collaborative re
 
 ## 🧩 **Time Sheet**
 
-First group project assignment completed during my coding bootcamp. I contributed to layout structure, styling, and core JavaScript logic._
+First group project assignment completed during my coding bootcamp. I contributed to layout structure, styling, and core JavaScript logic.\_
 
 ▸ [Repo](https://github.com/AdminChatter/TimeSheetJuly2nd) | [Live Site](https://adminchatter.github.io/TimeSheetJuly2nd/)
 
-### 👥 **Contributors:**  
-- [AdminChatter](https://github.com/AdminChatter) – Repository Owner  
-- [JHebenstreit48](https://github.com/JHebenstreit48) – Developer  
+### 👥 **Contributors:**
+
+- [AdminChatter](https://github.com/AdminChatter) – Repository Owner
+- [JHebenstreit48](https://github.com/JHebenstreit48) – Developer
 - [LGX10](https://github.com/LGX10) - Developer
 - [Reisleo99](https://github.com/Reisleo99) - Developer
 
-<!-- ## ⚙️ **Melodify**  
-Music player we created similar to Spotify.  
+<!-- ## ⚙️ **Melodify**
+Music player we created similar to Spotify.
 
   ▸ [Repo](https://github.com/Isaiahcapers/Melodify) | [Live Site](https://melodify-mycopy.onrender.com/) (working on fixing deployment)
 
@@ -243,21 +249,22 @@ Music player we created similar to Spotify.
 - [JHebenstreit48](https://github.com/JHebenstreit48) – Developer
 - [sashamolotovs7](https://github.com/sashamolotovs7) – Developer -->
 
-## 🗄️ **codeBounty**  
-Website created to function similarly to Fiverr or other freelance work site.  
+## 🗄️ **codeBounty**
 
-  ▸ [Repo](https://github.com/bryceberczik/codeBounty) | [Live Site](https://codebounty-production.up.railway.app/)
+Website created to function similarly to Fiverr or other freelance work site.
+
+▸ [Repo](https://github.com/bryceberczik/codeBounty) | [Live Site](https://codebounty-production.up.railway.app/)
 
 ### 👥 **Contributors:**
-  - [bryceberczik](https://github.com/bryceberczik) - Repository Owner
-  - [JHebenstreit48](https://github.com/JHebenstreit48) – Developer
-  - [ZVKubajak](https://github.com/ZVKubajak) - Developer
-  - [jarvisyoung24](https://github.com/jarvisyoung24) - Developer  
+
+- [bryceberczik](https://github.com/bryceberczik) - Repository Owner
+- [JHebenstreit48](https://github.com/JHebenstreit48) – Developer
+- [ZVKubajak](https://github.com/ZVKubajak) - Developer
+- [jarvisyoung24](https://github.com/jarvisyoung24) - Developer
 
 <br>
 
 ---
-
 
 # 📌 Featured Projects
 
@@ -268,9 +275,9 @@ Website created to function similarly to Fiverr or other freelance work site.
 
 ## 💼 **Portfolio**
 
-- 📁 [Repository](https://github.com/JHebenstreit48/portfolio-2025)  
+- 📁 [Repository](https://github.com/JHebenstreit48/portfolio-2025)
 - 🌐 [Live Site](https://portfolio-react-version.netlify.app/)  
-A growing showcase of my work in web development, with new additions reflecting my expanding focus on game development, mobile apps, and networking/security fundamentals (CCNA/CCNP). Built to evolve alongside my learning journey.
+  A growing showcase of my work in web development, with new additions reflecting my expanding focus on game development, mobile apps, and networking/security fundamentals (CCNA/CCNP). Built to evolve alongside my learning journey.
 
 > 🔄 GraphQL + Apollo integration in progress (contact form)  
 > ⚙️ Backend server deployed and active — feature under construction
@@ -284,27 +291,28 @@ A growing showcase of my work in web development, with new additions reflecting 
   <summary><strong>🔧 Skills Used</strong></summary>
   <br>
 
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![React Icons](https://img.shields.io/badge/React_Icons-E91E63?style=flat&logo=react&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-  ![Apollo](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)
-  <br><br>
-  🚧 <strong>Status:</strong> Feature in progress – GraphQL server live, frontend integration ongoing
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Icons](https://img.shields.io/badge/React_Icons-E91E63?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)
+<br><br>
+🚧 <strong>Status:</strong> Feature in progress – GraphQL server live, frontend integration ongoing
+
 </details>
 
 ---
 
 ## 🕹 **Asphalt Legends Unite Tracker**
 
-- 📁 [Repository](https://github.com/JHebenstreit48/asphalt-legends-unite-react)  
+- 📁 [Repository](https://github.com/JHebenstreit48/asphalt-legends-unite-react)
 - 🌐 [Live Site](https://asphaltlegendsunitetracker.netlify.app/)  
-A detailed and continuously evolving fan-made tracker for *Gameloft’s Asphalt Legends Unite*. Designed to help players track in-game progress, vehicle unlocks, and game content that’s not available through official tools.
+  A detailed and continuously evolving fan-made tracker for _Gameloft’s Asphalt Legends Unite_. Designed to help players track in-game progress, vehicle unlocks, and game content that’s not available through official tools.
 
 > 🧩 More fleshed out than my other projects, but still a work in progress  
 > 🔄 Manufacturer descriptions, logos, and new update pages still being added  
@@ -320,13 +328,13 @@ A detailed and continuously evolving fan-made tracker for *Gameloft’s Asphalt 
   <summary><strong>🔧 Skills Used</strong></summary>
   <br>
 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  ![MongoDB Compass](https://img.shields.io/badge/Compass-4FAA41?style=flat&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/Compass-4FAA41?style=flat&logo=mongodb&logoColor=white)
 
 </details>
 
@@ -334,9 +342,9 @@ A detailed and continuously evolving fan-made tracker for *Gameloft’s Asphalt 
 
 ## 🔖 **DevScriptStax**
 
-- 📁 [Front End Repo](https://github.com/JHebenstreit48/DevScriptStax)  
+- 📁 [Front End Repo](https://github.com/JHebenstreit48/DevScriptStax)
 - 🌐 [Live Site](https://devscriptstax.netlify.app/)  
-A searchable knowledge base for web development concepts and code examples.
+  A searchable knowledge base for web development concepts and code examples.
 
 > 🧩 Shares layout with **Pixel Prose** and **Net Notes**  
 > 📁 Part of a multi-repo umbrella project — see [DevScriptStax Versions](https://github.com/JHebenstreit48/codequest-versions)  
@@ -379,9 +387,9 @@ A searchable knowledge base for web development concepts and code examples.
 
 ## 🌐 **NetNotes**
 
-- 📁 [Repository](https://github.com/JHebenstreit48/NetNotes)  
+- 📁 [Repository](https://github.com/JHebenstreit48/NetNotes)
 - 🌐 [Live Site](https://netnotes.netlify.app/)  
-Organized study material for CCNA, CCNP, and general networking topics.
+  Organized study material for CCNA, CCNP, and general networking topics.
 
 > 🧩 Shares layout with **Code Quest** and **Pixel Prose**  
 > 📁 Part of a multi-repo umbrella project — see [NetNotes Versions](https://github.com/JHebenstreit48/netnotes-versions)  
@@ -425,9 +433,9 @@ Organized study material for CCNA, CCNP, and general networking topics.
 
 ## 🎮 **PixelProse**
 
-- 📁 [Repository](https://github.com/JHebenstreit48/PixelProse)  
+- 📁 [Repository](https://github.com/JHebenstreit48/PixelProse)
 - 🌐 [Live Site](https://pixelprose.netlify.app/)  
-Comprehensive notes on game design and development — ideal for learners and indie devs.
+  Comprehensive notes on game design and development — ideal for learners and indie devs.
 
 > 🧩 Shares layout with **Code Quest** and **Net Notes**  
 > 📁 Part of a multi-repo umbrella project — see [PixelProse Versions](https://github.com/JHebenstreit48/pixelprose-versions)  
@@ -476,6 +484,7 @@ Comprehensive notes on game design and development — ideal for learners and in
 - 🎮 Build tools and apps for communities, learning, and gaming
 - 🤝 Collaborate on open-source and dev-focused projects
 - ✨ Keep merging creativity and code through clean, thoughtful design
+
 ---
 
 Thanks for checking out my profile — feel free to connect, follow, or explore! 🚀
