@@ -19,7 +19,7 @@ color, and visual storytelling — skills I now apply directly to UI and UX desi
 
 I’m currently building large, structured notes and documentation platforms covering web development, game development, mobile development, and networking. To scale these projects and bring them to a usable, finished state more quickly, I frequently use AI-assisted development tools as part of my workflow while continuing to learn core concepts.
 
-AI output is treated as a starting point, with manual review and refinement applied as needed to ensure correct rendering, structure, and maintainability across projects.
+AI output is treated as a starting point, with manual review, refactoring, and validation applied as needed to ensure correct rendering, structure, and maintainability across projects.
 
 While I enjoy learning how things work under the hood, I gravitate toward the visual and interactive side of development. I care deeply about clean layouts, clear navigation, and interfaces that feel intentional — maybe even a little pixel-perfect.
 
