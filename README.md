@@ -60,25 +60,28 @@ Even with strong experience in HTML, CSS, JavaScript, and TypeScript, I’m alwa
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+<!-- ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=black) -->
+<!-- ![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) -->
+<!-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) -->
+
+
 
 ## 📱 Mobile Development
 
 ### 🧠 Learning
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+<!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) -->
 
 ---
 
@@ -122,7 +125,7 @@ I previously earned my CCNA in Routing, Switching, and Network Security. Althoug
 
 At present, my primary focus is on full-stack web and mobile development using JavaScript, React, React Native, and related technologies, but I remain committed to staying sharp across both development and networking disciplines.
 
-<!--
+
 ### 🔁 Refreshing
 
 ![Cisco](https://img.shields.io/badge/Cisco-1C6B87?style=flat&logo=cisco&logoColor=white)
@@ -136,15 +139,15 @@ At present, my primary focus is on full-stack web and mobile development using J
 
 ## 🛠️ Tools
 
-### 🧠 Learning
+<!-- ### 🧠 Learning
 
-![GNS3](https://img.shields.io/badge/GNS3-4B9CD3?style=flat&logo=gns3&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-4B9CD3?style=flat&logo=gns3&logoColor=white) -->
 
 ### 🔁 Refreshing
 
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-3366CC?style=flat&logo=cisco&logoColor=white)
 
--->
+
 
 ---
 
