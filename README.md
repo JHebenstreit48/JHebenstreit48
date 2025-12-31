@@ -30,7 +30,7 @@ Even with strong experience in HTML, CSS, JavaScript, and TypeScript, I’m alwa
 # 📫 Contact & Links
 
 [![Email](https://img.shields.io/badge/Email-%234a4a4a.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.hebenstreit.developer@gmail.com)
-<a href="(https://www.linkedin.com/in/justin-hebenstreit-6ba22920/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/justin-hebenstreit-6ba22920/" target="_blank" rel="noopener noreferrer">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
