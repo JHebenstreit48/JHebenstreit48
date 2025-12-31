@@ -30,7 +30,9 @@ Even with strong experience in HTML, CSS, JavaScript, and TypeScript, I’m alwa
 # 📫 Contact & Links
 
 [![Email](https://img.shields.io/badge/Email-%234a4a4a.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.hebenstreit.developer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-hebenstreit-6ba22920/)
+<a href="(https://www.linkedin.com/in/justin-hebenstreit-6ba22920/" target="_blank" rel="noopener noreferrer">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
@@ -64,6 +66,7 @@ Even with strong experience in HTML, CSS, JavaScript, and TypeScript, I’m alwa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 <!-- ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=black) -->
 <!-- ![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
@@ -71,13 +74,12 @@ Even with strong experience in HTML, CSS, JavaScript, and TypeScript, I’m alwa
 <!-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) -->
 
-
-
 ## 📱 Mobile Development
 
 ### 🧠 Learning
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
@@ -125,7 +127,6 @@ I previously earned my CCNA in Routing, Switching, and Network Security. Althoug
 
 At present, my primary focus is on full-stack web and mobile development using JavaScript, React, React Native, and related technologies, but I remain committed to staying sharp across both development and networking disciplines.
 
-
 ### 🔁 Refreshing
 
 ![Cisco](https://img.shields.io/badge/Cisco-1C6B87?style=flat&logo=cisco&logoColor=white)
@@ -146,8 +147,6 @@ At present, my primary focus is on full-stack web and mobile development using J
 ### 🔁 Refreshing
 
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-3366CC?style=flat&logo=cisco&logoColor=white)
-
-
 
 ---
 
@@ -311,7 +310,7 @@ Website created to function similarly to Fiverr or other freelance work site.
 
 ---
 
-## 🕹 **Asphalt Legends Unite Tracker**
+## 🕹 **Asphalt Legends Tracker**
 
 - 📁 [Repository](https://github.com/JHebenstreit48/asphalt-legends-unite-react)
 - 🌐 [Live Site](https://asphaltlegendsunitetracker.netlify.app/)  
